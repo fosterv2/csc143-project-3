@@ -1,0 +1,2 @@
+shape=square, red=-1, green=-1, blue=-1
+shape=circle, red=256, green=256, blue=256

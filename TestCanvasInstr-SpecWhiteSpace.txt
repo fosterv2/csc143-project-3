@@ -1,0 +1,1 @@
+  width = 500,height   =	25,red=23, green	=24,		blue=25, topRed =100 , topGreen=101	, topBlue=102, 		bottomRed = 200 , bottomGreen=201, bottomBlue=202   	

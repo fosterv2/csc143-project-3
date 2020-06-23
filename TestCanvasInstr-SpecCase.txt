@@ -1,0 +1,1 @@
+Width=500, HEIGHT=25, ReD=23, greeN=24, blUE=25, tOpReD=100, topgreen=101, Topblue=102, BOTTOMRED=200, boTtomGreeN=201, bottomBLUE=202

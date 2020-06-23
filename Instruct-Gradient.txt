@@ -1,0 +1,2 @@
+width=400, height=400, topRed=255, topGreen=230, topBlue=0, bottomRed=255, bottomGreen=123, bottomBlue=0
+shape=circle, scale=200, x=100, y=50, filled=true, red=255, green=100, blue=0

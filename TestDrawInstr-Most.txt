@@ -1,0 +1,1 @@
+shape=square, scale=123, x=101, y=52, filled=true, red=101, green=102, blue=103, rotate=14, rep=3, repOffX=10, repOffY=15, repRot=13

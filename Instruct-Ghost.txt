@@ -1,0 +1,7 @@
+width=350, height=350, red=64, green=64, blue=64
+shape=rectangle, scale=200, x=125, y=100, filled=true,  red=255, blue=255, green=255
+shape=circle,    scale=100, x=125, y=50,  filled=true,  red=255, blue=255, green=255
+shape=circle,    scale=15,  x=143, y=100, filled=true
+shape=circle,    scale=15,  x=187, y=100, filled=true
+shape=heart,     scale=25,  x=10,   y=10,   filled=false, red=255, repOffX=75, repOffY=75, rep=5
+shape=heart,     scale=25,  x=-2147483648, y=-2147483648, filled=false, red=255, rep=5

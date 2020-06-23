@@ -1,0 +1,14 @@
+width=300, height=400
+shape=rectangle, scale=100, x=125, y=300, filled=true, red=102, green=51
+shape=triangle, scale=200, x=50, y=175, filled=true, green=153
+shape=triangle, scale=166, x=67, y=125, filled=true, green=153
+shape=triangle, scale=132, x=84, y=75, filled=true, green=153
+shape=triangle, scale=100, x=100, y=25, filled=true, green=153
+shape=circle, scale=30, x=140, y=75, filled=true, red=255
+shape=circle, scale=30, x=125, y=170, filled=true, red=255
+shape=circle, scale=30, x=165, y=300, filled=true, red=255
+shape=triangle, scale=30, x=90, y=215, filled=true, blue=255
+shape=triangle, scale=30, x=175, y=250, filled=true, blue=255
+shape=triangle, scale=30, x=150, y=110, filled=true, blue=255
+shape=triangle, scale=30, x=85, y=315, filled=true, blue=255
+shape=star, scale=50, x=125, y=0, filled=true, red=255, green=255

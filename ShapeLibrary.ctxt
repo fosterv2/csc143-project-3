@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ShapeLibrary
+comment0.text=\r\n\ The\ class\ ShapeLibrary\ has\ an\ ArrayList\ filled\ with\ deserializes\ shapes\ from\ the\ shapes\ folder\ and\ has\ methods\ to\ get\ a\ shape\r\n\ from\ an\ index\ or\ from\ the\ shape's\ name.\r\n\r\n\ @author\ Valerie\ Foster\r\n\ @version\ 1/30/2018\r\n
+comment1.params=
+comment1.target=ShapeLibrary()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ShapeLibrary\r\n
+comment2.params=ind
+comment2.target=Shape\ getShape(int)
+comment2.text=\r\n\ This\ method\ returns\ a\ Shape\ from\ the\ ArrayList\ at\ the\ given\ index\r\n\r\n\ @param\ \ \ ind\ \ \ \ \ an\ integer\ for\ the\ index\r\n\ @return\ \ \ \ \ \ \ \ \ \ a\ Shape\ from\ the\ shapeArr\r\n
+comment3.params=name
+comment3.target=Shape\ getShapeFromName(java.lang.String)
+comment3.text=\r\n\ This\ method\ returns\ a\ Shape\ from\ the\ ArrayList\ with\ the\ given\ name\r\n\r\n\ @param\ \ \ name\ \ \ \ a\ String\ for\ the\ shape\ name\r\n\ @return\ \ \ \ \ \ \ \ \ \ a\ Shape\ from\ the\ shapeArr\r\n
+comment4.params=
+comment4.target=void\ readShapes()
+comment4.text=\r\n\ This\ private\ method\ deserializes\ the\ previously\ serialized\ shape\ files\ from\ the\ shapes\ folder\ and\ puts\ them\ into\ the\ shapeArr\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\ \r\n\ Creates\ and\ returns\ a\ string\ representation\ of\ this\ ShapeLibrary\r\n\ \r\n\ @return\ \ a\ String\ showing\ basic\ information\ about\ the\ shape\ library\r\n
+numComments=6

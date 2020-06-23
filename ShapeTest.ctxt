@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ShapeTest
+comment0.text=\r\n\ The\ test\ class\ ShapeTest\ tests\ the\ Shape\ class\r\n\r\n\ @author\ \ Valerie\ Foster\r\n\ @version\ 1/30/2018\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ testConstructor()
+comment3.params=
+comment3.target=void\ testPrecon()
+comment4.params=
+comment4.target=void\ testAddPoint()
+numComments=5

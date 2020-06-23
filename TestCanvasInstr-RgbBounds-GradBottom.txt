@@ -1,0 +1,2 @@
+bottomRed=-1, bottomBlue=-1, bottomGreen=-1, topRed=200, topGreen=225, topBlue=250
+bottomRed=256, bottomBlue=256, bottomGreen=256, topRed=200, topGreen=225, topBlue=250
